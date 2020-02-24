@@ -1,0 +1,8 @@
+{
+  "name": "js-jv9ad6",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
